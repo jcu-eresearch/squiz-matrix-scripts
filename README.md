@@ -9,9 +9,11 @@ squiz_matrix_install.sh
 sh /path/to/script/squiz_matrix_install.sh
 
 ### Options:  
+```
 ROOT_URL="192.168.163.131"  
 DEFAULT_EMAIL="nic@zedsaid.com"  
 PATH_TO_MATRIX="/home/websites"  
 APACHE_USER="www-data"  
 SQUIZ_MATRIX_VERSION="mysource_4-14-0"
+```
 
