@@ -18,3 +18,4 @@ PATH_TO_MATRIX="/home/websites"
 APACHE_USER="www-data"
 #### The Version of Squiz Matrix to install
 SQUIZ_MATRIX_VERSION="mysource_4-14-0"
+
