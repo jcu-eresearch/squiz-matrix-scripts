@@ -5,8 +5,10 @@ Various helpful scripts for Squiz Matrix.
 squiz_matrix_install.sh
 ---
 
-### Usage:  
+### Usage: 
+``` 
 sh /path/to/script/squiz_matrix_install.sh
+```
 
 ### Options:  
 ```
