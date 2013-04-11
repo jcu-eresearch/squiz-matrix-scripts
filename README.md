@@ -21,3 +21,19 @@ APACHE_USER="www-data"
 SQUIZ_MATRIX_VERSION="mysource_4-14-1"
 ```
 
+morph_assets.php
+---
+
+This script will morph assets under a specified root node. E.g. backend_user to user. The script will let you know how many 
+assets are available to morph then will prompt you to continue.
+
+### Usage: 
+``` 
+php morph_assets.php /path/to/matrix <root id> <from asset type code> <to asset type code>
+```
+
+### Options:  
+```
+--simulate // Optional mode as last argument to simulate the morphing process
+```
+
